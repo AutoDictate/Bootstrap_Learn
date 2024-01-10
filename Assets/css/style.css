@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.height-500{
+    height: 65vh;
+    background-color: violet;
+    color: #fff;
+}
+.p50{
+    background-color: blueviolet;
+    padding: 50px;
+}
+.container .bg{
+    border : 1px solid white !important;
+
+}
+.grid-layouts.container{
+    border : 1px solid red !important;
+    background-color: violet;
+    color: #fff;
+}

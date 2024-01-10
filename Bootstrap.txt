@@ -1,0 +1,59 @@
+What I an going to learn from these Tutorial ?
+
+    1. Setting up Bootstrap 5
+    2. Bootstrap Reboot
+    3. New Breakpoints
+    4. Flex-grid Upgrades
+    5. Jumbotrons and cards
+    6. Navs and cards
+    7. Navs and NavBars
+    8. Tooltips.
+
+1. What is Bootstrap?
+
+    -- Bootstrap is a front end CSS Framework used to build beautiful responsive websites.
+
+    1 Mobile First Design 
+    2 Reusable Classes
+    3 Inbuild UI Elements - buttons, cards and modals etc..,
+    4 Device and Browser Compatability
+    5 Etc..,,
+
+2. Who invented Bootstrap and When ?
+
+    -- Originally names 'Twitter Blueprint'
+    -- Developed by "Mark Otto and Jacob"
+    -- Open Source Project on August 19, 2011.
+
+3. Why we should use Bootstrap ? 
+
+    -- Easy to use
+    -- Responsive Features
+    -- Mibile First Approach
+    -- Browser Compatability
+
+4. Who uses Bootstrap ? 
+
+    -- Udemy
+    -- Twitter
+    -- Spotify
+    -- LinkedIn
+    -- Walmart
+
+
+#4 Bootstrap Viewports
+
+    (column)
+   1 Extra Small - <576px // Main
+   2 Small - >=576
+   3 Medium Screens - >=768px
+   4 Large devices - >=992px
+   5 Extra large devices - >=1200px
+
+#5 Bootstrap Containers
+
+    Container
+    Container-sm
+    Container-md
+    Container-lg
+    Container-fluid
